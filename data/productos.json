@@ -1,0 +1,43 @@
+[
+    {
+    "id":1,
+    "nombre":"burger",
+    "precio":"89",
+    "calorias":"90",
+    "ingredientes":"carne 100% res ,cocinada fuego lento",
+    "path_imagen":"https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Cheeseburger-3d7c922.jpg"
+    },
+    {
+    "id":2,
+    "nombre":"panini",
+    "precio":"112",
+    "calorias":"50",
+    "ingredientes":"pan artesanal, carnes frias, vegetales",
+    "path_imagen":"https://as1.ftcdn.net/v2/jpg/03/31/97/12/1000_F_331971297_a2OcoeyBd60z9chPmBAc7CppmjnNSxms.jpg"
+    },
+    {
+    "id":3,
+    "nombre":"burrito",
+    "precio":"75",
+    "calorias":"90",
+    "ingredientes":"estilo texmex, con salsa tabasco",
+    "path_imagen":"https://okdiario.com/img/2019/05/21/burritos-caseros-655x368.jpg"
+    },
+    {
+    "id":4,
+    "nombre":"club sandwich",
+    "precio":"95",
+    "calorias":"90",
+    "ingredientes":"pan de centeno de pollo y jamon de pavo, queso y vegetales ",
+    "path_imagen":"https://cdn7.kiwilimon.com/brightcove/8634/8634.jpg"
+    },
+    {
+    "id":5,
+    "nombre":"chilaquiles",
+    "precio":"200",
+    "calorias":"90",
+    "ingredientes":"hechos con tortilla dorada y mole veracruz",
+    "path_imagen":"https://i.blogs.es/25527f/chilaquiles-rojos-tradicionales-receta-facil-cocina-mexicana/840_560.jpg"
+    }
+    ]
+    
